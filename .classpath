@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry exported="true" kind="lib" path="lib/jna-3.5.2.jar"/>
+	<classpathentry exported="true" kind="lib" path="lib/vlcj-3.0.1.jar" sourcepath="C:/Users/hp/Documents/vlcj-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="lib/pdf-renderer.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

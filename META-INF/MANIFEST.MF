@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Multimedia
+Bundle-SymbolicName: Multimedia
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: Multimedia.jar
+Export-Package: images.Quotes,
+ images.icons,
+ images.sound,
+ ng.co.ovo.Multimedia
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
